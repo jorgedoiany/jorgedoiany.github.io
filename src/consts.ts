@@ -1,5 +1,7 @@
-// Place any global data in this file.
-// You can import this data from anywhere in your site by using the `import` keyword.
+// src/consts.ts
+// Global site data for SEO and metadata
 
-export const SITE_TITLE = 'Site Author – Personal Blog & Portfolio';
-export const SITE_DESCRIPTION = 'Growth engineering, analytics, and product marketing notes. Case studies, experiments, and projects by Site Author.';
+export const SITE_TITLE = 'Jorge D. Peguero — AI/ML & React Frontend Developer';
+export const SITE_DESCRIPTION = 
+  "Master's student in Artificial Intelligence specializing in Machine Learning and Data Science. React Frontend Developer passionate about building intelligent, data-driven solutions and modern web experiences.";
+
